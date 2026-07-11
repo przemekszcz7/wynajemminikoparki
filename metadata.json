@@ -1,0 +1,6 @@
+{
+  "name": "Wynajem Minikoparki",
+  "description": "Profesjonalna strona firmy oferującej wynajem minikoparki bez operatora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
